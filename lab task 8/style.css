@@ -1,0 +1,29 @@
+.adr{
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+    font-family: sans-serif;
+}
+.registration_box{
+     /*reg box padding ,margin, background color, back shadow,position */ 
+    width:500px;
+    border-radius: 10px;
+
+    align-items: center;
+    background-color:rgb(148, 210, 221);
+    top: 15%;
+    left: 35%;    
+    background: antiquewhite;
+    box-shadow:0 0 10px rgba(0, 0,0, 1);
+    
+    position: absolute;
+
+    box-sizing: border-box;
+}
+form{
+    text-align: center;
+    padding: 10px;
+}
+
+
+
